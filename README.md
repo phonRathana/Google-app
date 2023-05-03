@@ -13,7 +13,7 @@
     <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{ :{deny_list:["bam.nr-data.net"]}};(window.NREUM
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">                                       <link rel="apple-touch-icon"
-    href="https://httpsrathanaphon.websites.com./files/70123469956/favicon/favicon.png?v=google-site-verfication: googlee9c9e70123469956.html                                             <meta name="theme-color" content="#FFFFFF">
+    href="https://httpsrathanaphon.websites.co.in/files/70123469956/favicon/favicon.png?v=google-site-verfication: googlee9c9e70123469956.html                                             <meta name="theme-color" content="#FFFFFF">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
     <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
     <meta name="description" content="Business As a loyal partner sell technology">
@@ -47,9 +47,9 @@
         <!-- BS4 minified v1.0.0 CSS -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.com/e-store/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.com/e-store/css/custom.min.css?v=googlee9c9e70123469956.html
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/css/custom.min.css?v=googlee9c9e70123469956.html
         
-        <link rel="stylesheet" href="https://httpsrathanaphon.websites.com/e-store/css/ecommerce.min.css?v=googlee9c9e70123469956.html
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/css/ecommerce.min.css?v=googlee9c9e70123469956.html
          <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
               <!-- FontAwesome -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.com/e-store/fonts/css/all.min.css">
@@ -182,7 +182,7 @@ gtag('config', 'https://tagassistant.google.com/#/?url=https%3A%2F%2Fhttpsrathan
         "name": "Rathana phone Shop1",
         "url": "https://httpsrathanaphon.websites.co.in",
         "sameAs": [
-            "https://httpsrathanaphon.websites.co.in", "https://httpsrathanaphon.websites.co.in", "https://httpsrathana-phoneshop1-business-development-service.business.site", "https://httpsrathanaphon.websites.co.in", "https://httpsrathanaphon.websites.com.", "https://httpsrathanaphon.websites.com.", "http://www.youtube.com/@rathanaphon29"
+          "url':  "https://httpsrathanaphon.websites.co.in", "https://httpsrathanaphon.websites.co.in", "https://httpsrathana-phoneshop1-business-development-service.business.site", "https://httpsrathanaphon.websites.co.in", "https://httpsrathanaphon.websites.co.in.", "https://httpsrathanaphon.websites.co.in.", "http://www.youtube.com/@rathanaphon29"
        ],
             "priceRange":"$$$",
            "telephone":"
