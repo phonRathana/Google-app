@@ -1,8 +1,10 @@
 @Google
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    ("Hello the world")
+      <footer></footer>
+</head><haed>
+         </head><haed>   
+           ("Hello the world")
     htmlpags
     address rathanathon29@gmail.com
     <meta charset="utf-8">,,
