@@ -72,9 +72,9 @@
         <!-- manifest request -->
         <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
 
-        <link rel="canonical" href="https://httpsrathanaphon.websites.com/index.php">
+        <link rel="canonical" href="https://httpsrathanaphon.websites.co.in/index.php">
 
-        <link rel="alternate" href="https://httpsrathanaphon.websites.com." hreflang="en-khmer">
+        <link rel="alternate" href="https://httpsrathanaphon.websites.co.in" hreflang="en-khmer">
     <script>
             window.Laravel = {"csrfToken":"4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4"};
         </script>
