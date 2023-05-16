@@ -1,4 +1,4 @@
-@Google
+@Google app HTML&Css
 <!DOCTYPE html>
 <html lang="en">
       <footer></footer>
@@ -34,7 +34,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
     <meta property="og:description" content="Business As a loyal partner sell technology">
-    <meta property="og:image" content="https://httpsrathanaphon.websites.com./files/70123469956/business/logo/googlee9c9e70123469956.htmllogo-.jpeg">
+    <meta property="og:image" content="https://httpsrathanaphon.websites.co.in/files/70123469956/business/logo/googlee9c9e70123469956.htmllogo-.jpeg">
     <meta property="og:url" content="https://httpsrathanaphon.websites.co.in">
     </head>
 <body>
@@ -63,7 +63,7 @@
 
         <!-- slick-->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in./e-store/slick/slick.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.com/e-store/slick/slick-theme.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/slick/slick-theme.css"> 
 <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/common/css/custom-toast.css">
         
         <!-- Select2 css files -->
@@ -144,7 +144,7 @@ gtag('config', 'https://tagassistant.google.com/#/?url=https%3A%2F%2Fhttpsrathan
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','https://tagassistant.google.com/#/?url=https%3A%2F%2Fhttpsrathanaphon.website.com%2F');</script>
+    })(window,document,'script','dataLayer','https://tagassistant.google.com/#/?url=https%3A%2F%2Fhttpsrathanaphon.website.co.in%2F');</script>
     <!-- End Google Tag Manager -->
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=https://tagassistant.google.com/#/?url=https%3A%2F%2Fhttpsrathanaphon.website.co.in%2F"
