@@ -1,8 +1,7 @@
 # Google-search 
 html>
   <head>
-     ("hello the world ")    
-     <meta charset="utf-8">
+     ("hello the world ")       
      <title>Rathana Phone Shop1</title>
      <meta name="google-site-verification" content="6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0" />
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -116,3 +115,5 @@ html>
      </div> 
    </body> 
  </html>
+<!DOCTYPE html><html lang="$1en"> <head> <title>$2</title> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width initial-scale=1"> <link href="$1css/style.css" rel="stylesheet"></head> <body>$3</body></html>
+<i>$1</i>$2
