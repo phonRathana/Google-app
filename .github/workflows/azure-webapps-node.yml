@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "@GitHubrathanaphon" ]
+    branches: [ "master" ]
   workflow_dispatch:
 
 env:
