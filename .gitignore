@@ -7,6 +7,6 @@
   return firstRow.getValues()[0] //.getValues() returns a 2D array of data from the table, of which we want just the first subarray, i.e. row;
 }
 
-Logger.log(getFirstApplicant()); // with Apps Script you have a Logger instead of a console!
- // logs: [@GithutbRathanaphon, Developer, Javascript]
+console.log(getFirstApplicant()); // with Apps Script you have a Logger instead of a console!
+ console logs: [@GithutbRathanaphon, Developer, Javascript]
 }
