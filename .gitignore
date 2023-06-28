@@ -1,6 +1,6 @@
-
-//from a table of job applicants
-function getFirstApplicant() {
+{
+ //from a table of job applicants
+  function getFirstApplicant() {
   var ss = SpreadsheetApp.getActiveSpreadsheet(); // you need this to start!
   var sheet = ss.getSheetByName("developers");  // the sheet I'm working on
   var firstRow = sheet.getRange(2, 1, 1, ss.getLastColumn()); // the range I'm working with : 2nd row, 1st column, 1 row, all columns with data in
@@ -9,3 +9,4 @@ function getFirstApplicant() {
 
 Logger.log(getFirstApplicant()); // with Apps Script you have a Logger instead of a console!
  // logs: [@GithutbRathanaphon, Developer, Javascript]
+}
